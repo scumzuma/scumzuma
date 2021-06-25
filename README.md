@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scumzuma(Chandresh Patidar)
+###👋 Hi, I’m @scumzuma(Chandresh Patidar)
 - 👀 I’m interested in ... turning DESIGN into Code
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
