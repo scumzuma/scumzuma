@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: biotif;
+}
+:root{
+
+    --primary_bg:#111111;
+    --primary_color:#F13A60;
+    --secondary_color:#5F61AB;
+    --primary_gradient:linear-gradient(30deg,var(--primary_color),var(--secondary_color),#A1C0F8)
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.main_app_wrap{
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 50px;
+    justify-content: space-between;
+    position: fixed;
+    padding: 0 5%;
+}
+.logo{
+    color: whitesmoke;
+    font-family: mango;
+    font-size: 1.7rem;
+}
+.logo font{
+    color:var(--primary_color) ;
+    font-size: 3rem;
+}
+body{
+   background-color: var(--primary_bg);
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.navitem{
+    margin-left: 3rem;
+}
+a:hover::after{
+    width: 100%;
+    height: 5px;
+    background-color: var(--primary_color);
+}
+section{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1% 0 5%;
+}
+section div{
+        color: white;
+}
+.developer_details_box{
+    width: 60%;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    align-items: flex-start;
+}
+.developer_details_head{
+        font-family: plus jakarta sans;
+        font-size: 3.5rem;
+        background: var(--primary_gradient);
+        font-weight: 800;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
+.explore_work_button{
+    margin-top: 15vh;
+    padding: 1% 1%;
+    width: 200px;
+    font-size: 1.5rem;
+    color: whitesmoke;
+    background-color: transparent;
+    cursor: pointer;
+    border: 2px solid whitesmoke;
+    transition: .3s;
+
+}
+.explore_work_button:hover{
+    background-color: whitesmoke;
+    color: var(--primary_bg)        ;
+}
+.button_play{
+    width: 20px;
+    height: 2px;
+}
+
+.social_media_icon{
+    height: 40vh;
+    width: 5%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.social_media_icon li svg{
+    stroke: #ccc;
+}
+li{
+    list-style: none;
+}
+.social_media_icon li:hover  svg{  
+    stroke: whitesmoke;
+    transition: .3s;
+    transform: scale(1.1);
+}
