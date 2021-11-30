@@ -1,5 +1,5 @@
 <img src="./images/github header.png" width="100%">
-![](https://komarev.com/ghpvc/?username=codezuma&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=riskycase&label=Profile%20views)
 ![Visitor Count](https://profile-counter.glitch.me/{codezuma}/count.svg)
 
 <br>
