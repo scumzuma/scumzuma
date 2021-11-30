@@ -1,5 +1,6 @@
 <img src="./images/github header.png" width="100%">
 ![](https://komarev.com/ghpvc/?username=codezuma&label=Profile+Views&color=6A57EB)
+<br>
 ###👋 Hi, I’m @scumzuma(Chandresh Patidar)
 - 👀 I’m interested in ... turning DESIGN into Code
 - 🌱 I’m currently learning ... Javascript
