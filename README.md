@@ -1,4 +1,4 @@
-<img src="./github header.png" width="100">
+<img src="./images/github header.png" width="100">
 ###👋 Hi, I’m @scumzuma(Chandresh Patidar)
 - 👀 I’m interested in ... turning DESIGN into Code
 - 🌱 I’m currently learning ... Javascript
