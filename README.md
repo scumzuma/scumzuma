@@ -1,4 +1,4 @@
-![plot](./github header.png)
+<img src="./github header.png" width="100">
 ###👋 Hi, I’m @scumzuma(Chandresh Patidar)
 - 👀 I’m interested in ... turning DESIGN into Code
 - 🌱 I’m currently learning ... Javascript
