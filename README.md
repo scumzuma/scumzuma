@@ -1,5 +1,7 @@
 <img src="./images/github header.png" width="100%">
 ![](https://komarev.com/ghpvc/?username=codezuma&label=PROFILE+VIEWS)
+![Visitor Count](https://profile-counter.glitch.me/{codezuma}/count.svg)
+
 <br>
 ###👋 Hi, I’m @scumzuma(Chandresh Patidar)
 - 👀 I’m interested in ... turning DESIGN into Code
