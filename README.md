@@ -17,3 +17,5 @@ mainly code in Javascript.I like UI designing,exploring new technologies and imp
 <span><img margin="0 5" src="./images/html_icon.svg" width="50px"></span>&nbsp;
 <span><img src="./images/phpicon.svg" width="50px"></span>&nbsp;
 <span><img src="./images/mysql_icon.svg" width="50px"></span>&nbsp;
+<span><img src="./images/linux_icon.svg" width="50px"></span>&nbsp;
+
